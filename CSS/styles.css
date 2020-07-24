@@ -1,0 +1,26 @@
+.flashCard{
+    cursor: pointer;
+}
+.flashCard:hover{
+    color: green;
+    font-size: 1.3rem;
+}
+body{
+    background-color: white;
+    align-content: center;
+    font-size: large;
+}
+.header{
+    padding: 1%;
+    text-align: center;
+    color: black;
+    background-color: beige;
+    font-size: 100%;
+}
+.content{
+    max-width: 50%;
+    margin: auto;
+    background: khaki;
+    padding: 10px;
+}
+            
